@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba de la unidad 2 del PrepCourse Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio local.
+Mariela Olivera
